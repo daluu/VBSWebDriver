@@ -1,0 +1,1 @@
+ScriptUnit.exe VBSWebDriver test.vbs /log results.xml
